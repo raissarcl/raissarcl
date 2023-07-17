@@ -23,7 +23,7 @@
 <br />
 <p align= "center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissarcl&theme=react&layout=compact&langs_count=8)" width="400" height="200"/>
+  [![Raíssa's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raissarcl&theme=react&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ------
