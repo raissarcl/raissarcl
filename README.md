@@ -30,6 +30,6 @@
 
 <span>[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raircl.dev@gmail.com)</span>
 
-<span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/ra%C3%ADssa-regis-30a6801b6/))</span>
+<span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%ADssa-regis-30a6801b6/)</span>
   
 </div>
