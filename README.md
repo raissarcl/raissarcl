@@ -19,10 +19,10 @@
 </p>
 
 <br />
-<p align= "center">
+<div align= "center">
 
   [![Raíssa's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raissarcl&theme=react&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 ------
 <h3 align="center">Connect with me:</h3>
