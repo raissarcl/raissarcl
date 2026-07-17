@@ -21,7 +21,7 @@
 <br />
 <div align= "center">
 
-  [![Raíssa's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raissarcl&theme=react&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Raíssa's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=raissarcl&theme=react&layout=compact&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ------
